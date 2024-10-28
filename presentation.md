@@ -50,20 +50,28 @@ _MET is responsible for leading the project and ensuring effective interaction._
 
 ---
 
-# NIVA
+# NIVA's contribution - infrastructure
 
 - [Data Management Handbook](https://s-enda.github.io/DMH/)
-- [Thredds](https://thredds.niva.no/thredds/catalog/catalog.html)
-- OPeNDAP 
-    - ACDD + CF-NetCF
-- Testing WMS
-- Datasets
-  - Timeseries
-    - Msource inlet
-    - Msource outlet
+- Set up a [Thredds](https://thredds.niva.no/thredds/catalog/catalog.html) server.  
+     Supported services:
+    - OPeNDAP 
+    - CdmRemote
+    - ISO
+    - NCML
+    - UDDC
+
+--- 
+
+# NIVA's contribution - datasets
+
+  Timeseries published on Thredds
+  - Msource inlet
+  - Msource outlet
+  -  Color Fantasy - Daily
+  -  Color Fantasy NorSoop
   - SIOS
-- Grid
-  - Test exceedence limits
+
 
 
 
